@@ -1,0 +1,12 @@
+<nav search_view="search">
+  <view name="splunk_seat_at_the_table_insights" default="true" />
+  <a href="/app/lookup_editor/lookup_edit?owner=nobody&amp;namespace=benzies_app_ssatt&amp;lookup=ssatt_lookup.csv&amp;type=csv">Lookup Table</a>
+  <collection label="Everything Else">
+  	<view name="search"/>
+  	<view name="analytics_workspace" />
+  	<view name="datasets" />
+  	<view name="reports" />
+  	<view name="alerts" />
+  	<view name="dashboards" />
+  </collection>
+</nav>

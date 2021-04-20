@@ -1,0 +1,23 @@
+[app/ui]
+version = 8.1.3
+modtime = 1618956759.072920000
+
+[app/launcher]
+version = 8.1.3
+modtime = 1618956759.073497000
+
+[lookups/ssatt_lookup.csv]
+version = 8.1.3
+modtime = 1618958501.877417000
+
+[views/splunk_seat_at_the_table_insights]
+version = 8.1.3
+modtime = 1618958565.422517000
+
+[nav/default]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 8.1.3
+modtime = 1618958284.852149000
+
