@@ -13,7 +13,9 @@ Unfortunatley the table needs to be manually updated, but I've updated it with t
 ## Instructions
 1. mkdir -p /opt/splunk/etc/apps/benzies_app_ssatt/
 1. cd /opt/splunk/etc/apps/benzies_app_ssatt/
-1. git clone git@github.com:benzies/splunk_seat_at_the_table.git
+1. git clone https://github.com/benzies/splunk_seat_at_the_table.git
+1. cd splunk_seat_at_the_table/
+1. mv -R /opt/splunk/etc/apps/benzies_app_ssatt/
 1. install [Lookup Editor](https://splunkbase.splunk.com/app/1724/)
 
 
