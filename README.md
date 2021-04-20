@@ -16,6 +16,7 @@ Unfortunatley the table needs to be manually updated, but I've updated it with t
 1. mkdir -p /opt/splunk/etc/apps/benzies_app_ssatt/
 1. mv  ~/splunk_seat_at_the_table/* /opt/splunk/etc/apps/benzies_app_ssatt/
 1. install [Lookup Editor](https://splunkbase.splunk.com/app/1724/)
+1. /opt/splunk/bin/splunk restart
 
 
 
